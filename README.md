@@ -1,3 +1,9 @@
+[![Build Status](https://travis-ci.org/mattrude/im.mattrude.com.svg?branch=master)](https://travis-ci.org/mattrude/im.mattrude.com)
+[![GitHub license](https://img.shields.io/github/license/mattrude/im.mattrude.com.svg)](https://github.com/mattrude/im.mattrude.com/blob/master/LICENSE)
+[![GitHub tag](https://img.shields.io/github/tag/mattrude/im.mattrude.com.svg)](https://github.com/mattrude/im.mattrude.com/tags)
+[![Open Issues](https://img.shields.io/github/issues-raw/mattrude/im.mattrude.com.svg)](https://github.com/mattrude/im.mattrude.com/issues)
+[![Maintenance](https://img.shields.io/maintenance/yes/2017.svg)](http://github.com/mattrude/im.mattrude.com)
+
 # XMPP Site Source
 
 
